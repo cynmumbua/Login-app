@@ -7,7 +7,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Make sure you have an up-to-date version of Node.js and React installed on your system. If you don't have Node.js installed, you can install it from [Named Link](https://nodejs.org/en/download/ "here").
+Make sure you have an up-to-date version of Node.js and React installed on your system. If you don't have Node.js installed, you can install it from [here](https://nodejs.org/en/download/ "here").
 
 ### Installing
 
@@ -26,7 +26,7 @@ Make sure you have an up-to-date version of Node.js and React installed on your 
 
 * [React](https://reactjs.org/docs/getting-started.html) 
 * [Node](https://nodejs.org/en/docs/) 
-* [Okat](https://developer.okta.com/docs/)
+* [Okta](https://developer.okta.com/docs/)
 
 ## Authors
 
