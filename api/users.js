@@ -22,12 +22,10 @@ router.post('/', (req, res, next) =>{
     oktaClient
     .createUser(newUser)
     .then(user =>{
-        console.log('in then')
         res.status(201);
         res.send(user);
     })
     .catch(error =>{
-        console.log('in catch')
         res.status(400);
         res.send(error);
     });
