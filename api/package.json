@@ -27,7 +27,7 @@
     "make-runnable": "^1.3.6"
   },
   "dependencies": {
-    "@okta/okta-sdk-nodejs": "^4.0.0",
+    "@okta/okta-sdk-nodejs": "^4.6.1",
     "express": "^4.17.1"
   }
 }
